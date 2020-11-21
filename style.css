@@ -1,0 +1,28 @@
+body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+    font-family: Goldman;
+    background: rgb(36,0,23);
+    background: linear-gradient(90deg, rgba(36,0,23,1) 0%, rgba(2,0,36,1) 0%, rgba(1,126,113,1) 14%, rgba(0,212,255,1) 86%, rgba(9,9,121,1) 100%);
+}
+
+h1 {
+    text-align: center;
+}
+
+hr {
+    height: 3px;
+    background: #8e0cff;
+}
+
+.button {
+    width: 200px;
+    height: 35px;
+    background: #27e6ff;
+    font-weight: 600;
+    font-family: Goldman;
+    font-size: 16px;
+    cursor: pointer;
+}
